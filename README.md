@@ -1,4 +1,4 @@
-# TensorFlow
+# TensddorFlow
 
 Linux CPU [![Build Status](http://ci.tensorflow.org/buildStatus/icon?job=tensorflow-master)](http://ci.tensorflow.org/job/tensorflow-master)  
 Linux GPU PIP [![Build Status](http://ci.tensorflow.org/buildStatus/icon?job=tensorflow-master-gpu_pip)](http://ci.tensorflow.org/job/tensorflow-master-gpu_pip)  
@@ -20,7 +20,7 @@ variety of other domains, as well.
 guidelines**](CONTRIBUTING.md)**.**
 
 **We use **[**github issues**](https://github.com/tensorflow/tensorflow/issues)** for  
-tracking requests and bugs, but please see    
+tracking requests and bugs, but please see      
 **[**Community**](tensorflow/g3doc/resources/index.md#community)** for general questions  
 and discussion.**
 
