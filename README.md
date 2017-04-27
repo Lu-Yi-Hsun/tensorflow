@@ -20,7 +20,7 @@ variety of other domains, as well.
 guidelines**](CONTRIBUTING.md)**.**
 
 **We use **[**github issues**](https://github.com/tensorflow/tensorflow/issues)** for  
-tracking requests and bugs, but please see  
+tracking requests and bugs, but please see    
 **[**Community**](tensorflow/g3doc/resources/index.md#community)** for general questions  
 and discussion.**
 
@@ -30,7 +30,7 @@ See [install instructions](tensorflow/g3doc/get_started/os_setup.md).
 
 ### Try your first TensorFlow program
 
-```sh
+```py
 $ python
 
 >>> import tensorflow as tf
